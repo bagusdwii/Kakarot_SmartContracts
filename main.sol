@@ -2,9 +2,9 @@ pragma solidity 0.8.17;
 
 // SPDX-License-Identifier: MIT
 
-contract HMSTR {
-  string public name = "Hamster Network";
-  string public symbol = "HMSTR";
+contract GUZZY {
+  string public name = "Guzzy Network";
+  string public symbol = "GUZZY";
   uint8 public decimals = 18;
   uint256 public totalSupply = 10000000000 * 10 ** uint256(decimals);
 
